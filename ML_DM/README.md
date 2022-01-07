@@ -16,8 +16,6 @@ Recollections of final exam:
 
 3. (PCA) A $2\times5$ data matrix is given. Use PCA to transform the matrix from 2-dimensional to 1-dimensional.
 
-<!-- 半监督学习，集成，聚类分析，神经网络 -->
-
 4. (Semi-supervised Learning)
    1) What is active learning?
    2) What's the difference between TSVM and SVM? Would TSVM always perform better than SVM? Explain it.
@@ -31,9 +29,10 @@ Recollections of final exam:
    2) Analyse the difference of using minimum distance & maximum distance in AGNES algorithm.
    3) Give a real-life application of clustering algorithm.
 
-7. (Bayes Network)
-   1) 写出前向传播公式 
-   2) 说明只用线性激活函数，多层神经网络等价于单层神经网络 
+7. (Bayes Network) Hidden layers use $h(z)=cz$ as activate function.
+   1) Write out a forward propagation equation of given network.  
+   2) Can you construct a equivalent network without hidden layers?
+   3) Prove that all MLPs using linear activate function has a equivalent network structure without hidden layers.
 
 8. (SVM) Given positive sample (3,3),(4,3) & negative sample (1,1). Use SVM to find the maximum-margin classifier $\boldsymbol{w}^T\boldsymbol{x}$
 
