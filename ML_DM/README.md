@@ -40,7 +40,7 @@ Scope of Examination: 《机器学习》周志华 Ch.2-Ch.11,Ch.13
    2) Can you construct a equivalent network without hidden layers?
    3) Prove that all MLPs using linear activate function has a equivalent network structure without hidden layers.
 
-8. (SVM) Given positive sample (3,3),(4,3) & negative sample (1,1). Use SVM to find the maximum-margin classifier $\boldsymbol{w}^T\boldsymbol{x}$
+8. (SVM) Given positive sample (3,3),(4,3) & negative sample (1,1). Use SVM to find the maximum-margin classifier $\boldsymbol{w}^T\boldsymbol{x}+b=0$
 
 9. (Open questions) A telecom-company provides various communicating packages，now we demand an algorithm on recommanding diverse packages to different users.
     1) What machine learning methods are suitable for this task?
