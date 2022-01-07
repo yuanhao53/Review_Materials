@@ -11,7 +11,7 @@ Scope of Examination: 《机器学习》周志华 Ch.2-Ch.11,Ch.13
 考试题目回忆：
 
 1. (Linear Module) 
-   1) Which model do we choose when dealing with enormous features? Linear model or Non-linear models? Explain.
+   1) Which model do we choose when dealing large quantities of features? Linear model or Non-linear models? Explain.
    2) What is normalization？Which of the following algorithms demands normalization？LR, Decision Tree, SVM, Random Forest, kNN.
    3) The reason or description of introducing $L_1\ \&\ L_2$ norm regularization to models. Since introducing regularization means introducing priori distribution to parameters, like $L_1$ introduces Laplacian distribution, what distribution does $L_2$ norm regularization introduce?
 
