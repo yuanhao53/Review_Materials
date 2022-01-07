@@ -42,7 +42,8 @@ Scope of Examination: 《机器学习》周志华 Ch.2-Ch.11,Ch.13
 
 8. (SVM) Given positive sample (3,3),(4,3) & negative sample (1,1). Use SVM to find the maximum-margin classifier $\boldsymbol{w}^T\boldsymbol{x}$
 
-9. 电信公司有多个套餐，推荐给用户合适的套餐
-    1) 哪些机器学习方法可以选
-    2) 选出你认为有用的数据
-    3) 简述你使用的方法
+9. (Open questions) A telecom-company provides various communicating packages，now we demand an algorithm on recommanding diverse packages to different users.
+    1) What machine learning methods are suitable for this task?
+    2) Select features from provided sheet that you think are significant. Our data sheet includes but is not limited to features like Calling time,
+Network traffic consumption, etc.
+    3) Give a brief description of the learning process you designed.
