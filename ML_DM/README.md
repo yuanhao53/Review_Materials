@@ -6,6 +6,8 @@ Materials for Machine Learning & Data Mining of USTC Autumn 2021
 
 Scope of Examination: 《机器学习》周志华 Ch.2-Ch.11,Ch.13
 
+考试方式：开卷，建议使用提纲搭配《机器学习》《统计学习方法》
+
 考试题目回忆：
 
 1. (Linear Module) 
