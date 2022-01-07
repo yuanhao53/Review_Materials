@@ -27,7 +27,7 @@ Scope of Examination: 《机器学习》周志华 Ch.2-Ch.11,Ch.13
    2) What's the difference between TSVM and SVM? Would TSVM always perform better than SVM? Explain it.
 
 5. (Ensemble Learning)
-   1) Explain why Random Forest computes faster than Bagging based on Decision Tree.
+   1) Explain why Random Forest computes faster than Bagging whose base learner is Decision Tree.
    2) What are the methods of ensemble learning? Explain why ensemble learning achieves better performance than base learners.
    
 6. (Clustering)
