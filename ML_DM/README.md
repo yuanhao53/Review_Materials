@@ -35,7 +35,7 @@ Scope of Examination: 《机器学习》周志华 Ch.2-Ch.11,Ch.13
    2) Analyse the difference of using minimum distance & maximum distance in AGNES algorithm.
    3) Give a real-life application of clustering algorithm.
 
-7. (Bayes Network) Hidden layers use $h(z)=cz$ as activate function.
+7. (Bayesian Network) Hidden layers use $h(z)=cz$ as activate function.
    1) Write out a forward propagation equation of given network.  
    2) Can you construct a equivalent network without hidden layers?
    3) Prove that all MLPs using linear activate function has a equivalent network structure without hidden layers.
