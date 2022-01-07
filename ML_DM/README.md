@@ -1,8 +1,11 @@
+中国科学技术大学 《机器学习与知识发现》 2021-22秋季学期
+
+授课老师：陈恩红 徐林莉 徐潼 
 Materials for Machine Learning & Data Mining of USTC Autumn 2021
 
 Scope of Examination: 《机器学习》周志华 Ch.2-Ch.11,Ch.13
 
-Recollections of final exam:
+考试题目回忆：
 
 1. (Linear Module) 
    1) Which model do we choose when dealing with enormous features? Linear model or Non-linear models? Explain.
